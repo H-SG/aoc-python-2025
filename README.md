@@ -1,1 +1,2 @@
-# aoc-python-2025
+# Advent of Code 2025
+Another year, another advent of code! I'm not feeling another language right now, so I'm opting for the default of Python. I'mlooking forward to the shorter format, but I hope it doesn't scale in difficulty too much too quickly.
