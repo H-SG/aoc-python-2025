@@ -3,3 +3,6 @@ Another year, another advent of code! I'm not feeling another language right now
 
 # Day 1
 Part 1 was pretty easy, part 2 took me longer than I care to admit to catch the edge case of the left rotation roll over...
+
+# Day 2
+I wonder if there is a more elegant way of doing this, either way, accidentally solved P2 first, aside from a small little error.
