@@ -6,3 +6,6 @@ Part 1 was pretty easy, part 2 took me longer than I care to admit to catch the 
 
 # Day 2
 I wonder if there is a more elegant way of doing this, either way, accidentally solved P2 first, aside from a small little error.
+
+# Day 3
+My first solution was very easily transformed into the final solution, would've been a quick go if I had a solid block of time.
